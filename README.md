@@ -124,17 +124,7 @@
 1. **Definoni klasa dhe krijoni objekte.**
 2. **Praktikoni ushtrime mbi konceptet bazë të OOP.**
 
-# Java 13: Programimi Objekt-Orientuar (OOP) - Avancuar
-
-## Tema:
-- **Trashëgimia, polimorfizmi, kapsulimi**
-- **Mbishkrimi i metodave dhe hierarkitë e klasave**
-
-## Aktivitetet:
-1. **Shkruani programe që përdorin parimet e avancuara të OOP.**
-2. **Praktikoni ushtrime mbi trashëgiminë dhe polimorfizmin.**
-
-# Java 14: Puna me Biblioteka
+# Java 13: Puna me Biblioteka
 
 ## Tema:
 - **Hyrje në bibliotekat popullore (p.sh., NumPy, Pandas, Requests)**
@@ -143,6 +133,17 @@
 ## Aktivitetet:
 1. **Shkruani programe duke përdorur biblioteka për manipulimin e të dhënave ose kërkesat në web.**
 2. **Praktikoni ushtrime mbi përdorimin e bibliotekave të jashtme.**
+
+# Java 14: Web Scraping dhe API
+
+## Tema:
+1. Kërkesa HTTP me Requests.
+2. Hyrje në Web Scraping me BeautifulSoup.
+3. Përdorimi i API-ve për të marrë të dhëna nga burime të jashtme.
+
+##Aktivitetet:
+1. Krijoni programe që tërheqin të dhëna nga uebfaqe duke përdorur API ose scraping.
+2. Diskutoni mbi sfidat dhe etikat e scraping dhe përdorimit të API-ve.
 
 # Java 15: Projekti përfundimtar
 
